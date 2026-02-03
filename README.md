@@ -47,7 +47,3 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akram-ayman-61275b2b7/)
 - 📧 [Email](mailto:akram2206148@miuegypt.edu.eg)
-
----
-
-*⚡ Always building. Always learning. Always curious about intelligence — both artificial and human.*
