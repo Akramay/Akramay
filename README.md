@@ -1,8 +1,6 @@
 👋 Hi there! I'm **Akram Ayman**, a Computer Science student minoring in Artificial Intelligence.  
-🎯 I’m really interested in creating practical, real-world solutions with AI and Machine Learning.
-
-📚 Right now, I’m focused on learning and building projects around Intelligent Agent Design, Computer Vision, and Generative AI.
-
+🎯 I’m really interested in creating practical, real-world solutions with AI and Machine Learning.  
+📚 Right now, I’m focused on learning and building projects around Intelligent Agent Design, Computer Vision, and Generative AI.  
 🚀 I enjoy discovering new tools, technologies, and frameworks in the evolving field of data and intelligent systems.
 
 ---
