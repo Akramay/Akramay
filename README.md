@@ -1,13 +1,13 @@
 
 
 👋 Hi there! I'm **Akram Ayman**, a Computer Science student minoring in Artificial Intelligence.  
-🎯 I'm passionate about building real-world solutions using **AI**, **Machine Learning**.  
-📚 Currently learning and working on projects in **Designing Intelligent Agents**, **Computer Vision**, and **Generative AI**.  
-🚀 Always exploring new technologies and frameworks in the world of data and intelligence.
+🎯 I’m really interested in creating practical, real-world solutions with AI and Machine Learning.
+📚 Right now, I’m focused on learning and building projects around Intelligent Agent Design, Computer Vision, and Generative AI.
+🚀 I enjoy discovering new tools, technologies, and frameworks in the evolving field of data and intelligent systems.
 
 ---
 
-# 💻 Languages, Tools & Skills:
+# 💻 Languages & Skills:
 
 ### 🧠 AI / ML 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
